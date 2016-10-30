@@ -1,4 +1,4 @@
 # Algoritmos-2016-2
 Tareas
 
-Partition in two fingers and random
+Partition Four Finger in two fingers and random
